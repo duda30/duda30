@@ -3,8 +3,8 @@
 </strong></div>
 <div align="center">
   <a href="https://github.com/duda30">
-  <img height="250em" align="left" src="https://github-readme-stats.vercel.app/api?username=duda30&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/9e39fe679bede1d6ea45049139bb2c2d.gif" width="250" align="right" height="250" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>   
+  <img height="230em" align="left" src="https://github-readme-stats.vercel.app/api?username=duda30&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/9e39fe679bede1d6ea45049139bb2c2d.gif" width="230" align="right" height="230" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duda30&layout=compact&langs_count=7&theme=dracula"
 </div>
 <div style="display: inline_block"><br>
