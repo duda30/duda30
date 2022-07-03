@@ -1,5 +1,5 @@
 <div align="center"><strong>
-Eaíí, eu sou a Maria Lombardi!
+  <h2>Eaíí, eu sou a Maria Lombardi!</h2>
 </strong></div>
 <div align="center">
   <a href="https://github.com/duda30">
