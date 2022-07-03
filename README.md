@@ -1,4 +1,4 @@
-<div align="center" height="30em" width="30"><strong>
+<div align="center" height="10em" width="10"><strong>
   <h2>Eaíí, eu sou a Maria Lombardi!</h2>
 </strong></div>
 <div align="center">
