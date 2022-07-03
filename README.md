@@ -1,15 +1,15 @@
 <div align="center"><strong>
   <h1>Eaíí, eu sou a Maria Lombardi!</h1>
 </strong></div>
-<div align="center">
+<div align="center"><br>
   <a href="https://github.com/duda30">
   <img height="190em" align="left" src="https://github-readme-stats.vercel.app/api?username=duda30&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/9e39fe679bede1d6ea45049139bb2c2d.gif" width="190" align="right" height="190" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
-  <img height="190em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duda30&layout=compact&langs_count=7&theme=dracula"
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="left" alt="maria-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="left" alt="maria-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img height="190em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duda30&layout=compact&langs_count=7&theme=dracula"
 </div>
   
   ##
