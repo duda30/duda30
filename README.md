@@ -1,4 +1,6 @@
-                                                         ## Eaíí, eu sou a Maria Lombardi! 
+<div align="center"><strong>
+Eaíí, eu sou a Maria Lombardi!
+</strong></div>
 <div align="center">
   <a href="https://github.com/duda30">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duda30&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
