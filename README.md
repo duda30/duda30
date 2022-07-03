@@ -1,6 +1,6 @@
-<div align="center"><strong>
+<p align="center"><strong>
   <h1>Eaíí, eu sou a Maria Lombardi!</h1>
-</strong></div>
+</strong></p>
 <div align="center">
   <a href="https://github.com/duda30">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duda30&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
