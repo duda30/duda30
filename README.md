@@ -1,6 +1,5 @@
 <div align="center"><strong>
   <h1>Eaíí, eu sou a Maria Lombardi!</h1>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 </strong></div>
 <div align="center">
   <a href="https://github.com/duda30">
