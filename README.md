@@ -4,8 +4,8 @@
   </strong>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="flex-grow: 1;">
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex-grow: 1; text-align: center;">
     <a href="https://github.com/duda30">
       <img height="190em" src="https://github-readme-stats.vercel.app/api?username=duda30&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
     </a>
@@ -22,6 +22,5 @@
 <br>
 
 <div style="text-align: center;">
-  <h2>Seu Título Aqui</h2>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duda30&layout=compact&langs_count=7&theme=dracula">
 </div>
