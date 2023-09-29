@@ -29,4 +29,4 @@ Eu sou a Maria Lombardi, uma profissional de DevOps focada em criar e implementa
 
 - [LinkedIn](https://www.linkedin.com/in/mslombardi/)
 
-![Snake animation](https://github.com/duda30/duda30/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/duda30/duda30/blob/output/github-contribution-grid-snake.svg)
